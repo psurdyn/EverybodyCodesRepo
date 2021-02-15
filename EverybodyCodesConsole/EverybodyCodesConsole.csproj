@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+      <OutputType>Exe</OutputType>
+      <TargetFramework>netcoreapp3.1</TargetFramework>
+      <AssemblyName>dotnet-search</AssemblyName>
+
+      <PackageId>DotNetSearch</PackageId>
+      <PackageVersion>3.1</PackageVersion>
+      <Authors>Piotr Surdyn</Authors>
+      <Description>...</Description>
+
+      <PackageType>DotnetCliTool</PackageType>
+      <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+</Project>
